@@ -1,0 +1,10 @@
+npm init => to initialize the project & install node packages
+
+=> installing dependencies
+
+npm i express
+npm i mongoose
+npm i shortid
+npm i nodemon
+
+=> nodemon is used to reflect change on local server directly on saving without restarting of server
